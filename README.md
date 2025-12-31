@@ -36,3 +36,16 @@ git clone https://github.com/yourusername/pdf-merger-app.git
 cd pdf-merger-app
 pip install -r requirements.txt
 python app.py
+or if on windows double click on startpdfmerge.bat
+
+## 📸 Screenshots
+
+### Home
+![Home UI](screenshots/ui-home.png)
+
+### File Upload & Reorder
+![Files UI](screenshots/ui-files.png)
+
+### Merge & Download
+![Merge UI](screenshots/ui-merge.png)
+
