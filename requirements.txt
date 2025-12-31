@@ -1,0 +1,8 @@
+Flask
+flask-cors
+PyPDF2
+Pillow
+python-docx
+openpyxl
+reportlab
+pypandoc
